@@ -58,7 +58,7 @@ After uploading a dataset, the system automatically shows:
 • Top rows of the dataset
 • Basic analysis of the data
 
-![Preview_&_Auto Analysis](Screenshots/top4rows&autoanalyzeddata.png)
+![Preview_&_Auto Analysis](Screenshots/top4rows&autoanalyzed data.png)
 
 
 ---
