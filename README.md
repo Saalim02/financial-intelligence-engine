@@ -88,7 +88,7 @@ Example:
 
 The system can detect unusual patterns or anomalies in the data.
 
-![Anomaly_Detection](Screenshots/Auto_Aggregation_Insights.png)
+![Anomaly_Detection](Screenshots/Auto_Anomaly_Detection.png)
 
 
 ---
