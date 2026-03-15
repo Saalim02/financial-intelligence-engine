@@ -23,7 +23,6 @@ In simple words, it works like having your own AI Financial Analyst.
 🚀 What This Project Does
 
 Normally, analyzing data requires:
-
 • Writing SQL queries
 • Using tools like PowerBI
 • Creating charts manually
@@ -47,7 +46,7 @@ The system will automatically show:
 🖥 Application Interface
 This is the main interface where users upload the dataset and ask questions.
 
-
+![Interface](Screenshots/Interface.png)
 
 
 
