@@ -58,7 +58,7 @@ After uploading a dataset, the system automatically shows:
 • Top rows of the dataset
 • Basic analysis of the data
 
-![Preview_&_Auto Analysis](Screenshots/top 4 rows & auto analyzed data.png)
+![Preview_&_Auto Analysis](Screenshots/top4rows&autoanalyzeddata.png)
 
 
 ---
@@ -66,7 +66,7 @@ After uploading a dataset, the system automatically shows:
 🤖 Autonomous AI Insights
 The system can automatically generate insights from the dataset.
 
-![Auto_Insights](Screenshots/Autonomus AI insights.png)
+![Auto_Insights](Screenshots/AutonomusAIinsights.png)
 
 
 
@@ -79,7 +79,7 @@ Example:
 • Sales aggregation
 • Category analysis
 
-![Aggregation_Insights](Screenshots/Auto Agrregation Insights.png)
+![Aggregation_Insights](Screenshots/AutoAgrregationInsights.png)
 
 
 ---
