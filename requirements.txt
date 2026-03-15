@@ -3,11 +3,10 @@ altair==4.2.2
 pandas
 numpy
 plotly
-scikit-learn
 openai
 python-dotenv
 pandasql
 openpyxl
+sqlalchemy
 matplotlib
 seaborn
-sqlalchemy
